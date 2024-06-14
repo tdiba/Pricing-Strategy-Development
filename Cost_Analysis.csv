@@ -1,0 +1,6 @@
+Item ID,Ingredient,Cost per Unit ($),Required Units per Batch,Total Cost per Batch ($)
+K1,Meat,1.5,100,150
+K2,Grains,0.5,200,100
+K3,Additives,0.2,150,30
+K4,Packaging,0.3,300,90
+K5,Distribution,0.4,1,40

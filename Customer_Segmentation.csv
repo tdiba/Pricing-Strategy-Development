@@ -1,0 +1,101 @@
+Customer ID,Age Group,Pet Type,Buying Frequency,Average Spend per Visit,Preferred Product Type,Sensitivity to Price
+1,Senior,Large dog,1,33.45,Premium,High
+2,Young adult,Large dog,2,49.83,Regular,High
+3,Senior,Large dog,1,25.28,Premium,High
+4,Senior,Small dog,2,20.54,Regular,Low
+5,Young adult,Large dog,2,34.82,Premium,Low
+6,Young adult,Large dog,3,25.36,Regular,High
+7,Senior,Small dog,2,30.99,Regular,Low
+8,Middle-aged,Large dog,3,42.33,Regular,High
+9,Senior,Small dog,1,41.63,Premium,High
+10,Senior,Medium dog,1,29.24,Regular,Medium
+11,Senior,Large dog,1,36.28,Regular,Low
+12,Senior,Medium dog,1,35.26,Premium,High
+13,Young adult,Small dog,3,39.09,Premium,High
+14,Senior,Large dog,1,27.51,Regular,Low
+15,Middle-aged,Small dog,2,37.7,Regular,Medium
+16,Young adult,Medium dog,2,49.37,Premium,Medium
+17,Middle-aged,Small dog,2,34.6,Premium,High
+18,Middle-aged,Large dog,3,47.18,Premium,Low
+19,Middle-aged,Large dog,1,33.03,Premium,Medium
+20,Middle-aged,Medium dog,1,30.5,Premium,Low
+21,Young adult,Small dog,1,39.35,Regular,Low
+22,Young adult,Large dog,3,40.07,Premium,High
+23,Middle-aged,Medium dog,2,45.93,Regular,Medium
+24,Middle-aged,Large dog,2,26.91,Regular,High
+25,Young adult,Large dog,1,34.98,Regular,Medium
+26,Young adult,Small dog,2,37.16,Premium,Medium
+27,Young adult,Large dog,2,43.06,Regular,Medium
+28,Senior,Small dog,3,21.31,Regular,Medium
+29,Senior,Large dog,3,49.84,Premium,Medium
+30,Senior,Medium dog,3,34.1,Regular,Low
+31,Middle-aged,Large dog,3,28.39,Regular,High
+32,Senior,Small dog,1,46.5,Premium,Low
+33,Middle-aged,Small dog,3,42.43,Regular,Medium
+34,Middle-aged,Medium dog,2,48.59,Regular,High
+35,Senior,Large dog,1,29.92,Regular,Medium
+36,Middle-aged,Large dog,2,36.58,Premium,High
+37,Senior,Medium dog,2,37.17,Premium,Low
+38,Senior,Large dog,2,49.41,Premium,High
+39,Young adult,Large dog,3,22.26,Regular,High
+40,Senior,Small dog,3,29.17,Regular,High
+41,Young adult,Large dog,1,25.73,Premium,High
+42,Senior,Large dog,1,28.05,Regular,High
+43,Senior,Medium dog,3,34.56,Regular,Medium
+44,Young adult,Medium dog,2,31.18,Premium,High
+45,Young adult,Small dog,1,31.84,Premium,High
+46,Senior,Large dog,3,45.33,Regular,Low
+47,Middle-aged,Large dog,3,47.9,Regular,High
+48,Young adult,Large dog,3,22.11,Regular,Low
+49,Middle-aged,Small dog,2,26.27,Premium,Medium
+50,Middle-aged,Small dog,3,40.13,Premium,High
+51,Middle-aged,Medium dog,3,30.76,Premium,Low
+52,Young adult,Small dog,3,27.62,Premium,Low
+53,Middle-aged,Large dog,3,28.86,Regular,Medium
+54,Young adult,Large dog,1,29.68,Premium,High
+55,Middle-aged,Small dog,1,45.46,Premium,High
+56,Senior,Large dog,3,24.1,Premium,Low
+57,Senior,Large dog,2,41.27,Premium,High
+58,Young adult,Small dog,1,36.58,Premium,Low
+59,Senior,Small dog,3,28.9,Regular,High
+60,Senior,Large dog,1,32.59,Regular,Low
+61,Middle-aged,Large dog,1,27.69,Premium,High
+62,Young adult,Large dog,2,38.35,Regular,Medium
+63,Middle-aged,Medium dog,3,22.45,Premium,High
+64,Middle-aged,Medium dog,3,20.16,Premium,High
+65,Middle-aged,Medium dog,2,38.84,Regular,Medium
+66,Middle-aged,Small dog,2,25.83,Regular,High
+67,Middle-aged,Medium dog,3,22.13,Premium,Medium
+68,Middle-aged,Small dog,3,31.9,Premium,High
+69,Middle-aged,Small dog,2,21.52,Premium,Low
+70,Young adult,Medium dog,1,46.6,Regular,Low
+71,Senior,Medium dog,1,20.83,Premium,High
+72,Middle-aged,Medium dog,2,37.37,Premium,High
+73,Middle-aged,Large dog,1,33.15,Premium,High
+74,Middle-aged,Medium dog,2,40.16,Regular,Low
+75,Middle-aged,Large dog,1,29.84,Premium,High
+76,Middle-aged,Small dog,1,24.65,Premium,Low
+77,Middle-aged,Large dog,3,49.46,Regular,Medium
+78,Senior,Medium dog,3,45.17,Premium,Low
+79,Senior,Small dog,1,45.81,Premium,Low
+80,Middle-aged,Small dog,1,27.51,Regular,Medium
+81,Senior,Small dog,3,21.17,Premium,Low
+82,Young adult,Large dog,3,29.1,Regular,High
+83,Middle-aged,Medium dog,3,36.11,Regular,High
+84,Young adult,Small dog,2,29.8,Premium,Low
+85,Young adult,Small dog,1,44.84,Premium,High
+86,Middle-aged,Small dog,3,28.15,Premium,Low
+87,Senior,Large dog,1,48.96,Premium,High
+88,Young adult,Large dog,2,33.72,Regular,High
+89,Middle-aged,Medium dog,2,45.26,Premium,Low
+90,Young adult,Large dog,3,25.83,Regular,High
+91,Young adult,Small dog,2,32.34,Premium,Low
+92,Young adult,Medium dog,1,40.99,Premium,High
+93,Young adult,Small dog,3,24.15,Premium,High
+94,Senior,Small dog,1,23.98,Regular,Medium
+95,Young adult,Large dog,1,49.09,Premium,Medium
+96,Young adult,Medium dog,2,41.44,Premium,Low
+97,Young adult,Large dog,2,21.23,Premium,Medium
+98,Senior,Large dog,2,31.96,Premium,Low
+99,Young adult,Medium dog,2,33.01,Regular,Medium
+100,Young adult,Small dog,2,42.32,Premium,High
